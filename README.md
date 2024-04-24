@@ -11,6 +11,6 @@ By keeping my work open-source, I aim to not only share my creations but also in
 
 If you have any interest in seeing more from me outside of GitHub, feel free to connect with me on any of the platforms listed below!
 
-- [Twitter](https://twitter.com/bytorbrynden)
+- [Twitter](https://twitter.com/devbrynden)
 - [Instagram](https://instagram.com/bytorbrynden)
 - [LinkedIn](https://www.linkedin.com/in/bryndenbielefeld/)
